@@ -82,3 +82,6 @@ nnoremap <leader>' viw<esc>a'<esc>hviwo<esc>i'<esc>lel
 noremap <leader>sp :vsplit ~\dropbox\scratchpad.txt<CR>
 
 vnoremap <leader># I#<esc> 
+
+set backspace=indent,eol,start
+
